@@ -76,7 +76,7 @@ export default function SignUpPage() {
       />
       <button
         onClick={onSignUp}
-        className="p-2 border border-gray-300 rounded-lg
+        className="p-2 border mt-4 border-gray-300 rounded-lg
                mb-4 focus:outline-none
                focus:border-gray-600"
       >
